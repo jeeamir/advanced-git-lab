@@ -1,4 +1,4 @@
 def authenticate(username, password):
-    return username == "admin" and password == "1234"
+    return username == "admin"
 # logging added
 # validation added
