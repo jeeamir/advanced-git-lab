@@ -1,5 +1,5 @@
 def authenticate(username, password):
-    return username == "admin"
+    return username == "admin" and password == "1234"
 # logging added
 # validation added
 # session handling
