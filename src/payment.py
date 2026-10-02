@@ -1,0 +1,2 @@
+def calculate_payment(total, amount):
+    return total * amount
