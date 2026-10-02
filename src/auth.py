@@ -3,3 +3,4 @@ def authenticate(username, password):
 # logging added
 # validation added
 # session handling
+# audit trail
