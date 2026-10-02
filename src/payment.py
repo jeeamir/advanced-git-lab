@@ -1,2 +1,2 @@
 def calculate_payment(total, amount):
-    return total * amount
+    return total * amount# payment validation
